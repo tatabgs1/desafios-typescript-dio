@@ -3,4 +3,4 @@
 
 Desafios Typescript do Módulo "Introdução Prática ao TypeScript".
 
-### Professor: https://github.com/lira1705/mentoria-typescript/tree/main/src
+### Professor: https://github.com/lira1705/mentoria-typescript/
